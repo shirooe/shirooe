@@ -4,7 +4,7 @@
 
 ## 📊 GitHub Stats:
 
-<div align="center" vertical-align="center">
+<div>
 <img src="https://github-readme-stats.vercel.app/api?username=shiroe66&show_icons=true&count_private=true&hide_border=true" height="150em"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiroe66&hide_border=true&layout=compact" height="120em"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiroe66&hide_border=true&layout=compact" height="150em"/>
 </div>
