@@ -9,5 +9,5 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiroe66&hide_border=true&layout=compact" height="150em"/>
 </div>
 
-
+## 🎵 Currently listening
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bej0vqzoz44cd3rsy4vlesbse&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
