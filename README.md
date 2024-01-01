@@ -1,22 +1,39 @@
-<div align="center">
-  <img src="https://profile-counter.glitch.me/shirooe/count.svg?"  />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=shirooe&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
 </div>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="38" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="38" alt="react logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=stackoverflow" height="40" alt="stackoverflow logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="38" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="38" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="38" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="38" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="38" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="38" alt="vscode logo"  />
 </div>
 
----
+###
 
 <div align="right">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="twitch logo"  />
+  <a href="https://www.twitch.tv/shiroe_dev" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="29" alt="twitch logo"  />
+  </a>
+  <a href="https://t.me/httpcode403" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="29" alt="telegram logo"  />
+  </a>
+  <a href="https://discordapp.com/users/237961129802989569" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="29" alt="discord logo"  />
+  </a>
 </div>
 
 ###
