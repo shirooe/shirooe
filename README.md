@@ -20,8 +20,12 @@
   <img src="https://skillicons.dev/icons?i=docker" height="38" alt="docker logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="38" alt="vscode logo"  />
+</div>
 
-  <div align="right">
+###
+
+---
+<div align="right">
   <a href="https://www.twitch.tv/shiroe_dev" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="29" alt="twitch logo"  />
   </a>
@@ -32,6 +36,3 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="29" alt="discord logo"  />
   </a>
 </div>
-</div>
-
-###
