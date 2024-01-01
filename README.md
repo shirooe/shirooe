@@ -9,19 +9,19 @@
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=ts" height="38" alt="typescript logo"  />
-  <img width="12" />
+  <img width="3" />
   <img src="https://skillicons.dev/icons?i=react" height="38" alt="react logo"  />
-  <img width="12" />
+  <img width="3" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="38" alt="nodejs logo"  />
-  <img width="12" />
+  <img width="3" />
   <img src="https://skillicons.dev/icons?i=nestjs" height="38" alt="nestjs logo"  />
-  <img width="12" />
+  <img width="3" />
   <img src="https://skillicons.dev/icons?i=go" height="38" alt="go logo"  />
-  <img width="12" />
+  <img width="3" />
   <img src="https://skillicons.dev/icons?i=postgres" height="38" alt="postgresql logo"  />
-  <img width="12" />
+  <img width="3" />
   <img src="https://skillicons.dev/icons?i=docker" height="38" alt="docker logo"  />
-  <img width="12" />
+  <img width="3" />
   <img src="https://skillicons.dev/icons?i=vscode" height="38" alt="vscode logo"  />
 </div>
 
