@@ -32,7 +32,7 @@
   <a href="https://www.twitch.tv/shiroe_dev" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="29" alt="twitch logo"  />
   </a>
-  <a href="https://t.me/httpcode403" target="_blank">
+  <a href="https://t.me/shirooe" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="29" alt="telegram logo"  />
   </a>
   <a href="https://discordapp.com/users/237961129802989569" target="_blank">
